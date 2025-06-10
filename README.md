@@ -1,17 +1,19 @@
-# Praktikum ke 4 - 6
+<div align="center">
+Made with ❤️ by Nurul Aisyah
+</div>
 
-<p align='center'>
-    <img src=img/php.png width="120px" height="120px">
-    <img src=img/ci.png width="120px" height="120px">
-</p>
+# Praktikum ke 1 - 3
+
 
 ## Profil
+| Variable           | Isi                       |
+| ------------------ | ------------------------- |
+| **Nama**           | Nurul Aisyah     |
+| **NIM**            | 312310476                 |
+| **Kelas**          | TI.23.A.5                 |
+| **Mata Kuliah**    | Pemrograman Web 2         |
+| **Dosen Pengampu** |Agung Nugroho, S.Kom., M.Kom. |
 
-|                 |                        |
-| --------------- | ---------------------- |
-| **Nama**        | Muhammad Nurul Firdaus |
-| **Kelas**       | TI.23.A.5              |
-| **Mata Kuliah** | Pemrograman Web 2      |
 
 ## Langkah-langkah Praktikum
 
